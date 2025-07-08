@@ -33,7 +33,7 @@ class MainScreen extends GetView<MainController> {
               label: 'Home',
               icon: Icon(
                 Icons.home_filled,
-                size: 30,
+                size: 31,
               ),
             ),
             BottomNavigationBarItem(
