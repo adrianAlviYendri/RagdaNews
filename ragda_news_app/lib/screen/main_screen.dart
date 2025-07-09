@@ -30,7 +30,7 @@ class MainScreen extends GetView<MainController> {
           type: BottomNavigationBarType.fixed,
           items: const [
             BottomNavigationBarItem(
-              label: 'Home',
+              label: 'Dashboard',
               icon: Icon(
                 Icons.home_filled,
                 size: 31,
