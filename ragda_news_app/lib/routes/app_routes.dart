@@ -1,8 +1,9 @@
-abstract class AppRoutes {
-  static const splashScreen = '/splash-screen';
-  static const loginScreen = '/login-screen';
-  static const mainScreen = '/main-screen';
-  static const dashboardScreen = '/dashboard-screen';
-  static const newsScreen = '/news-screen';
-  static const profileScreen = '/profile-screen';
+class AppRoutes {
+  static const String splashScreen = '/splash';
+  static const String loginScreen = '/login';
+  static const String mainScreen = '/main';
+  static const String dashboardScreen = '/dashboard';
+  static const String newsScreen = '/news';
+  static const String profileScreen = '/profile';
+  static const String detailNewsScreen = '/detail-news';
 }
